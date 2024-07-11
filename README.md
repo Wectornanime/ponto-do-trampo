@@ -5,11 +5,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/github/contributors/wectornanime/safezone-mobile.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/wectornanime/safezone-mobile.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/contributors/wectornanime/ponto-do-trampo.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/wectornanime/ponto-do-trampo.svg?style=for-the-badge" />
 </div>
-
-Status do Projeto: ✔️ (concluido)
 
 ### Tópicos
 
@@ -23,7 +21,7 @@ Status do Projeto: ✔️ (concluido)
 
 🔹 [Documentação]()
 
-## Descrição do projeto
+## Descrição do projeto 📝
 <!-- <p align="justify">O Ponto do Trampo é uma aplicação mobile que visa facilitar
 a gestão de ponto de funcionários de uma empresa. A aplicação é desenvolvida
 para funcionar em dispositivos móveis e permite que os funcionários registrem
@@ -37,28 +35,36 @@ facilite a manutenção do código.</p> -->
 
 O Ponto do Trampo é uma aplicação mobile que visa facilitar controle de ponto no trabalho. O app foi desenvolvido em React Native com Expo e TypeScript.
 
-## Funcionalidades
+## Funcionalidades 🛠️
 
 ❌ Puxar a geolocalização do usuário.
+
 ❌ Registrar o ponto de entrada, saída e pausas.
+
 ❌ Gerenciar os funcionários e seus pontos.
+
 ❌ Visualizar os pontos de entrada, saída e pausas dos funcionários.
+
 ❌ Visualizar o histórico de pontos dos funcionários.
+
 ❌ Visualizar um relatório com o tempo estimado de trabalho.
+
 ❌ Envio de notificação como lembrete de horário.
-❌ Sistema de login
+
+❌ Sistema de login.
+
 <!-- ❌ ⚠️ ✔️ -->
 
 ## Layout ou Deploy da Aplicação 💨
 
-## Pré-requisitos
+## Pré-requisitos ✅
 
-⚠️ [Node Js](https://expo.dev/)
+⚠️ [Node Js](https://nodejs.org/pt)
 
-⚠️ [Expo](https://angular.io/)
+⚠️ [Expo](https://expo.dev/)
 
-## Licença
+## Licença ⚖️
 
-The [MIT License]() (MIT)
+The [GNU License](./LICENSE) (GNU)
 
 Copyright ©️ 2024 - Ponto do Trampo
