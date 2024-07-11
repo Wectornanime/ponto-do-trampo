@@ -11,15 +11,13 @@
 
 ### Tópicos
 
-🔹 [Descrição do projeto](#descrição-do-projeto)
+🔹 [Descrição do projeto](#descrição-do-projeto-)
 
-🔹 [Funcionalidades](#funcionalidades)
+🔹 [Funcionalidades](#funcionalidades-️)
 
-🔹 [Deploy da Aplicação](#deploy-da-aplicação-dash)
+🔹 [Deploy da Aplicação](#layout-ou-deploy-da-aplicação-)
 
-🔹 [Pré-requisitos](#pré-requisitos)
-
-🔹 [Documentação]()
+🔹 [Pré-requisitos](#pré-requisitos-)
 
 ## Descrição do projeto 📝
 <!-- <p align="justify">O Ponto do Trampo é uma aplicação mobile que visa facilitar
@@ -56,6 +54,8 @@ O Ponto do Trampo é uma aplicação mobile que visa facilitar controle de ponto
 <!-- ❌ ⚠️ ✔️ -->
 
 ## Layout ou Deploy da Aplicação 💨
+
+Ainda não disponível no momento.
 
 ## Pré-requisitos ✅
 
