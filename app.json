@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Ponto-do-Trampo",
-    "slug": "Ponto-do-Trampo",
+    "name": "Ponto do Trampo",
+    "slug": "ponto-do-trampo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
