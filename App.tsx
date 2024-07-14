@@ -1,5 +1,5 @@
 import { SafeAreaView } from 'react-native';
-import MainRouter from './src/router/main.router';
+import MainRouter from '@/router/main.router';
 
 export default function App() {
   return (
