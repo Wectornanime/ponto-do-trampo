@@ -14,16 +14,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'Ponto-do-trampo' title`, () => {
+  it(`should have the 'ponto-do-trampo' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('Ponto-do-trampo');
+    expect(app.title).toEqual('ponto-do-trampo');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, Ponto-do-trampo');
+    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, ponto-do-trampo');
   });
 });
